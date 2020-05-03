@@ -1,0 +1,13 @@
+{
+    "production": false,
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "q1w2e3",
+        "database": "restaurants"
+    },
+    "jwt": {
+        "secretKey": "MakeThingsGoRight"
+    },
+    "port": 3001
+}
